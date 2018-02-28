@@ -1,0 +1,30 @@
+{
+  "name": "electron-chess",
+  "productName": "Electron Chess",
+  "version": "1.0.0",
+  "description": "chess application using electron",
+  "main": "src/main.js",
+  "dependencies": {
+    "electron-prebuilt": "1.4.13"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matt-d-webb/electron-chess.git"
+  },
+  "keywords": [
+    "chess",
+    "electron",
+    "javascript"
+  ],
+  "author": "Matthew D Webb",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/matt-d-webb/electron-chess/issues"
+  },
+  "homepage": "https://github.com/matt-d-webb/electron-chess#readme"
+}
